@@ -1,2 +1,4 @@
-# Chatbots_using_python
-A simple chatbots program used for testing
+# Chat Bot
+***
+## Plan for Chat Bot
+We will finish chat bot in **2 days**.
